@@ -1,0 +1,19 @@
+{
+  "name": "calculate-time",
+  "version": "1.0.3",
+  "description": "Calculate time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "age calculate",
+    "time calculate",
+    "experience calculate"
+  ],
+  "author": "Rustamli Qudrat",
+  "license": "ISC",
+  "dependencies": {
+    "calculate-time": "^1.0.2"
+  }
+}
